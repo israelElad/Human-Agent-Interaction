@@ -1,0 +1,144 @@
+
+
+budget: 100
+
+
+[[1 0 0 0 1]
+ [1 0 1 0 0]
+ [0 1 0 1 0]
+ [0 1 0 0 1]
+ [0 1 0 1 0]]
+[87, 20, 72, 7, 9]
+First Assumption: [[2, 3, 4]]
+second assumption: [[1, 3, 4]]
+third assumption: [[0, 4]]
+fourth assumption: [[1, 2, 3]]
+fifth assumption: [[0, 3]]
+
+/////////////////////////////////////////////
+
+
+[[0 1 1 0 0 0 1]
+ [0 1 0 1 0 1 0]
+ [1 0 0 1 1 0 0]
+ [1 0 0 0 0 1 1]]
+[76, 35, 22, 60, 53, 23, 95]
+First Assumption: [[2, 4, 5]]
+second assumption: [[1, 2, 5]]
+third assumption: [[0, 5]]
+fourth assumption: [[1, 3]]
+fifth assumption: [[6]]
+
+/////////////////////////////////////////////
+
+[[0 0 1 0 0 1 1]
+ [1 0 0 1 1 0 0]
+ [1 1 0 1 0 0 0]
+ [1 0 0 0 1 0 1]
+ [0 0 1 1 0 0 1]]
+[88, 11, 27, 72, 60, 4, 30]
+First Assumption: [[1, 2, 4]]
+second assumption: [[1, 2, 5, 6]]
+third assumption: [[0, 1]]
+fourth assumption: [[2, 3]]
+fifth assumption: [[0, 5]]
+
+/////////////////////////////////////////////
+
+[[0 0 0 1 1 1 0]
+ [1 1 0 0 1 0 0]
+ [0 0 1 0 0 1 1]
+ [1 0 0 1 0 0 1]]
+[59, 25, 43, 21, 38, 79, 91]
+First Assumption: [[1, 2, 3]]
+second assumption: [[1, 3, 4]]
+third assumption: [[3, 5]]
+fourth assumption: [[0, 4]]
+fifth assumption: [[6]]
+
+
+/////////////////////////////////////////////
+
+[[0 0 0 1 1]
+ [1 0 0 1 0]
+ [0 0 0 1 1]
+ [0 1 1 0 0]
+ [1 1 0 0 0]]
+[12, 88, 61, 29, 8]
+First Assumption: [[0, 2, 4]]
+second assumption: [[0, 3, 4]]
+third assumption: [[0, 1]]
+fourth assumption: [[2, 3, 4]]
+fifth assumption: [[1, 4]]
+
+/////////////////////////////////////////////
+
+
+
+budget: 50
+
+/////////////////////////////////////////////
+[[0 0 1 0 1 0]
+ [0 0 0 1 0 1]
+ [0 1 0 0 0 1]
+ [0 0 0 1 0 1]
+ [1 0 1 0 0 0]]
+[32, 4, 43, 10, 7, 8]
+First Assumption: [[0, 4, 5]]
+second assumption: [[1, 3, 4, 5]]
+third assumption: [[2, 4]]
+fourth assumption: [[0, 3, 5]]
+fifth assumption: [[1, 2]]
+
+
+/////////////////////////////////////////////
+[[1 1 1 0 0 0 0 0 0]
+ [0 0 0 0 0 1 0 1 1]
+ [0 0 0 1 1 0 1 0 0]]
+[37, 49, 47, 11, 9, 46, 2, 8, 32]
+First Assumption: [[0, 6, 7]]
+second assumption: [[3, 4, 6, 7]]
+third assumption: [[0, 3, 6]]
+fourth assumption: [[4, 7, 8]]
+fifth assumption: [[1], [2, 6]]
+
+/////////////////////////////////////////////
+[[0 0 1 0 0 0 1]
+ [0 0 1 1 0 0 0]
+ [0 0 0 0 1 1 0]
+ [0 1 0 0 1 0 0]
+ [0 0 0 0 0 1 1]]
+[17, 49, 45, 19, 3, 27, 4]
+First Assumption: [[0, 3, 4, 6], [3, 4, 6]]
+second assumption: [[4, 5, 6]]
+third assumption: [[2, 6]]
+fourth assumption: [[3, 5, 6]]
+fifth assumption: [[2, 4]]
+
+
+/////////////////////////////////////////////
+[[1 0 0 1 0 0 0 1]
+ [0 1 0 0 0 0 1 1]
+ [1 0 1 0 1 0 0 0]
+ [0 1 0 0 1 0 1 0]]
+[5, 26, 41, 25, 20, 2, 47, 44]
+First Assumption: [[0, 1, 5]]
+second assumption: [[0, 3, 4]]
+third assumption: [[0, 7]]
+fourth assumption: [[1, 4, 5]]
+fifth assumption: [[5, 6]]
+
+
+
+/////////////////////////////////////////////
+[[1 0 1 1 0 0]
+ [0 1 0 1 1 0]
+ [0 0 1 1 1 0]
+ [1 1 0 0 0 1]
+ [1 1 0 0 0 1]]
+[9, 32, 13, 42, 36, 16]
+First Assumption: [[0, 4], [1, 2]]
+second assumption: [[0, 2, 5]]
+third assumption: [[1, 5]]
+fourth assumption: [[0, 1]]
+fifth assumption: [[3]]
